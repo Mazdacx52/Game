@@ -1,3 +1,10 @@
 Let's make a game!
 name:test
-author:Mazjkdww
+author:Maz
+by:Maz
+desc:Test clicker
+created:26/8/2021
+updated:26/8/2021
+version:1
+Settings
+background:Primordial-galaxy-696x392.jpg
